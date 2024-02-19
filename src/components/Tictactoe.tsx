@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState } from "react";
 import Confetti from "./Confetti";
 import { calculateWinner } from "./../utils/Common";
 import { BsFillHandThumbsDownFill } from "react-icons/bs";
