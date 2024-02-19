@@ -14,8 +14,7 @@ export default function Footer() {
           <BsGithub />
           <span className="footer-span">
             <a
-              href="https://github.com/bhagyashreeWalanj/tic-tac-toe-react
-              Public"
+              href="https://github.com/bhagyashreeWalanj/tic-tac-toe-react"
               className="font-bold"
             >
               Github
